@@ -1,0 +1,8 @@
+torch>=2.1
+open_clip_torch>=2.24
+numpy
+pandas
+
+# only for scripts/make_figures.py
+matplotlib
+scikit-learn

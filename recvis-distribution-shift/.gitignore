@@ -1,0 +1,14 @@
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+
+# competition data, feature cache and outputs stay local
+data/
+cache/
+runs/
+*.npz
+*.npy
+*.pt
+*.pth
+submission.csv
